@@ -1,3 +1,110 @@
+.github
+	
+fix (Skript): Behebt das DNS Timeout Problem der Ling-Box
+	
+vor 2 Wochen
+Dokumente
+	
+fix (Skript): Behebt das DNS Timeout Problem der Ling-Box
+	
+vor 2 Wochen
+Futter
+	
+feat (Scripting): die Geschichte bereinigen
+	
+letztes Jahr
+Shell
+	
+feat (Scripting): die Geschichte bereinigen
+	
+letztes Jahr
+.gitignore
+	
+feat (Skript): Erhöhen Sie die Länge des Zertifikats mldsa65
+	
+vor 2 Wochen
+LICENSE
+	
+feat (Scripting): die Geschichte bereinigen
+	
+letztes Jahr
+README.md
+	
+mit (Lesen): Update
+	
+vor 3 Wochen
+install.sh
+	
+feat (Skript): Kompatibel mit der neuesten Realitätsgeneration (xray-core)
+	
+letzte Woche
+Repository Dateien Navigation
+
+Readme
+
+    AGPL-3.0 Lizenz
+
+v2ray Agent
+
+    Vielen Dank an JetBrains für die nicht-kommerzielle Open-Source-Software-Entwicklungslizenz
+
+Lizenziert von AGPL v3 Telegrammkanal Telegrammgruppe Offizielle Website Die englische Version
+
+Röntgenkern-/Singbox Schnelle Installation eines Ein-Klick-Skripts
+Funktionen
+
+    Multicore-Unterstützung: Röntgenkern- und Singbox-Unterstützung.
+    Multi-Protokoll-Unterstützung: VLESS, Vess, Trojan, Hysteria2, Tuic, NaiveProxy und viele mehr.
+    Automatisches TLS: Automatisch SSL-Zertifikate beantragen und erneuern.
+    Einfach zu verwalten: Bietet ein einfaches Menü, um Benutzer, Ports und Konfigurationen zu verwalten.
+    Träger des Abonnements: Generieren und Verwalten von Abonnement-Links.
+    Diversifizierungsverwaltung: Bietet Drahtschutz, IPv6, Socken5, DNS, Vess(s), SNI Reverse Proxy, mit dem Streaming-Medien freigeschaltet, die IP-Authentifizierung umgehen usw.
+    Target Domain Name Management: Bietet Domainnamen Blacklist Management, mit dem der Zugriff auf eine bestimmte Website deaktiviert werden kann.
+    BT Download Management: Kann verwendet werden, um den Download von P2P-bezogenen Inhalten zu deaktivieren.
+    Für weitere Informationen besuchen Sie bitte die offizielle Website , spare
+
+Schneller Start.
+Installation
+
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+
+Einsatz
+
+Nach der Installation führen Sie folgenden Befehl aus, um das Managementmenü erneut zu öffnen:
+
+vasma
+
+Dokumentation und Richtlinien
+
+    Acht-in-eins-Skript vom Eintritt in die Meisterschaft
+    Skript Erstellen Sie schnell Tutorials
+    Überlegungen zur Script-Nutzung
+    Script-Ausnahmehandhabung
+    VPS zur Auswahl
+    Garbage VPS savior, hysteria2 neuestes Protokoll ein Klick
+    RackNard Low price Unicom AS4837 Paket, jährliche Zahlung von 10 US-Dollar
+    Hochwertige Pakete empfohlen
+    DMIT Premium-Pakete empfohlen
+
+Gemeinschaft und Unterstützung
+
+    Telegramm: Kanäle | Gruppen
+    Website: Offizielle Seite | Alternate
+    Feedback: Ausgabe der Ausgabe
+
+Spenden
+
+Vielen Dank für Ihr Interesse und Unterstützung für das Open-Source-Projekt. Wenn Sie das Gefühl haben, dass dieses Projekt hilfreich ist, können Sie gerne auf folgende Weise spenden.
+
+    Kauf von VPS-Spende
+    Spenden Sie mir in virtueller Währung.
+
+Lizenz
+Dieser Artikel ist unter der AGPL-3.0 Lizenz lizenziert.
+
+1ster versuch
+
+
 # v2ray-agent
 
 - [感谢 JetBrains 提供的非商业开源软件开发授权](https://www.jetbrains.com/?from=v2ray-agent)
